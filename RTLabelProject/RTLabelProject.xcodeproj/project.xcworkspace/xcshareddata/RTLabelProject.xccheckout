@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D9C3A434-D5AC-4531-B775-6C9EEDF52994</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RTLabelProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4BE2CD96-F339-4C35-B65B-180B2C8A6DCA</key>
+		<string>https://github.com/MrBoog/RTLabel.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RTLabelProject/RTLabelProject.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4BE2CD96-F339-4C35-B65B-180B2C8A6DCA</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/MrBoog/RTLabel.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4BE2CD96-F339-4C35-B65B-180B2C8A6DCA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4BE2CD96-F339-4C35-B65B-180B2C8A6DCA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RTLabel</string>
+		</dict>
+	</array>
+</dict>
+</plist>

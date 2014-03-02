@@ -60,6 +60,12 @@
 		[titleLabel setTextAlignment:UITextAlignmentCenter];
 		
 		_dataArray = [NSMutableArray array];
+        
+        
+        NSMutableDictionary *row0 = [NSMutableDictionary dictionary];
+		[row0 setObject:@"<font face='HelveticaNeue-CondensedBold' size=20 color=red> I'm Liu Huan here </font> <font face=AmericanTypewriter size=16 color=black> I like Ues different colours </font> <font face=Futura size=32 color='#dd1100'>and sizes</font>" forKey:@"text"];
+		[self.dataArray addObject:row0];
+        
 		NSMutableDictionary *row1 = [NSMutableDictionary dictionary];
 		[row1 setObject:@"<b>bold</b> and <i>italic</i> style" forKey:@"text"];
 		[self.dataArray addObject:row1];
@@ -89,7 +95,7 @@
 		[self.dataArray addObject:row7];
 		
 		NSMutableDictionary *row20 = [NSMutableDictionary dictionary];
-		[row20 setObject:@"<p indent=20>Indented bla bla <bi>bla bla bla bla</bi> bla bla bla bla bla bla bla</p>" forKey:@"text"];
+		[row20 setObject:@"<font face='HelveticaNeue-CondensedBold' size=20 color=red> Liu Huan here </font> <font face=AmericanTypewriter size=16 color=black> I like Ues different colours </font> <font face=Futura size=32 color='#dd1100'>and sizes</font>" forKey:@"text"];
 		[self.dataArray addObject:row20];
     }
     return self;
